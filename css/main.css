@@ -1,0 +1,14 @@
+.card {
+ display: flex;
+ flex-direction: column;
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+
+}
+ul li {
+list-style-type: none;
+  
+}
